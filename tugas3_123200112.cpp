@@ -53,7 +53,7 @@ int main()
 		cout << "Username Anda Salah" << endl;
 	} else if (user == "mahasiswa" && pass != 12345){
 		cout << "Password Anda Salah" << endl;
-	}
+	} 
 
 	cout << endl << endl;
 
